@@ -848,7 +848,7 @@ feedservice:
   ## Configure file storage settings
   ##
   storage:
-    ## Storage type. Supported values are "s3" and "azure".
+    ## Storage type. Supported values: "s3".
     ##
     type: "s3"
     ## Configure S3 access.
